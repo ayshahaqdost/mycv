@@ -513,7 +513,9 @@ form textarea{
       .page_in{
         right: 20%;
     }
-
+    .container{
+        height: 110vh;
+    }
 }
 @media screen and (max-width:377px) {
     .box .blue_cv{
