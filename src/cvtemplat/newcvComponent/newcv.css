@@ -396,7 +396,7 @@ form textarea{
     }
 }
 @media screen and (max-width:1054px) {
-    map{
+    iframe{
         width:300px;
          height:200px;
     }
@@ -429,13 +429,13 @@ form textarea{
   }  
 }
 @media screen and (max-width:834px) {
-   map{
+    iframe{
         width:200px;
          height:200px;
     }
 }
 @media screen and (max-width:629px) {
-    map{
+    iframe{
         width:300px;
          height:200px;
     } 
@@ -525,7 +525,7 @@ form textarea{
 
 }
 @media screen and (max-width:371px) {
-    map{
+    iframe{
         width:200px;
          height:170px;
     } 
